@@ -27,6 +27,11 @@ A full-featured job board platform built with Spring Boot that connects employer
   - Spring Data JPA
   - PostgreSQL
   - Hibernate
+- **Frontend:**
+  - Angular 16
+  - Bootstrap 5
+  - Jasmin 4.6
+  - Karma 6.4
 
 - **Security:**
   - JWT Authentication
